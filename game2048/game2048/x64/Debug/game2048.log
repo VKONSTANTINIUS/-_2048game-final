@@ -1,0 +1,7 @@
+﻿  game2048.cpp
+  game_func.cpp
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\game2048\game_func.cpp(21,24): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\game2048\game_func.cpp(21,32): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\game2048\game_func.cpp(332,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  game2048.vcxproj -> C:\Users\kosro\OneDrive\Desktop\навчання\IT STEP\с++\game2048\x64\Debug\game2048.exe
